@@ -1,0 +1,4 @@
+# Extra dependencies needed ONLY to re-run model/train_models.py locally
+# (SHAP explainability plots). NOT required by app.py / Streamlit Cloud
+# deployment - keep requirements.txt lean for that.
+shap==0.45.1

@@ -70,7 +70,7 @@ required here beyond the standard duplicate removal.
 
 ## c. GitHub Repository Link
 
-`https://github.com/prashantvankudre/retinopathy-ml-app`
+https://github.com/prashantvankudre/retinopathy-ml-app
 
 ## d. Models Used
 
@@ -169,7 +169,7 @@ streamlit run app.py
 
 ## Live Streamlit App
 
-`https://retinopathy-ml-app.streamlit.app`
+https://retinopathy-ml-app.streamlit.app
 
 ## App Features
 

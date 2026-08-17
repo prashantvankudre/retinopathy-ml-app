@@ -163,10 +163,7 @@ with st.sidebar.expander("Feature reference"):
     for feat, desc in FEATURE_DESCRIPTIONS.items():
         st.markdown(f"**{feat}** — {desc}")
 
-
-st.sidebar.subheader("LINKS:")
-st.sidebar.markdown("[README](https://github.com/yourname/yourrepo/blob/main/README.md)")
-st.sidebar.markdown("[GitHub Repository](https://github.com/yourname/yourrepo/blob/main/README.md)")
+st.sidebar.markdown(":technologist: [GitHub Repository: retinopathy-ml-app](https://github.com/prashantvankudre/retinopathy-ml-app)")
 
 
 # --------------------------------------------------------------------------
